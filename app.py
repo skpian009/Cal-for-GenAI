@@ -1,7 +1,9 @@
 import streamlit as st
 
 # Streamlit app title
-st.title("Simple Calculator App Created by Zubair")
+st.title("Simple Calculator")
+
+st.markdown("<p style='color:blue; font-size:20px;'>Created by Zubair</p>", unsafe_allow_html=True)
 
 # Dropdown menu for selecting operation
 operation = st.selectbox("Select operation:", ("Add", "Subtract", "Multiply", "Divide"))
