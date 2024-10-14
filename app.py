@@ -3,7 +3,7 @@ st.markdown(
     """
     <style>
     body {
-        background-image: url('https://img.freepik.com/free-vector/calculator-concept-illustration_114360-1194.jpg?t=st=1728923410~exp=1728927010~hmac=770fe9c7c0bb544a71a3bc6a0fa573e8afe465d7e7a2bea0d8b93c8d1725c52b&w=740');
+        background-image: url('https://img.freepik.com/free-vector/calculator-concept-illustration_114360-1194.jpg');
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
