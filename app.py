@@ -2,7 +2,7 @@ import streamlit as st
 
 # Streamlit app title
 st.title("Simple Calculator App
- <>Created by Zubair<> ")
+ Created by Zubair")
 
 # Dropdown menu for selecting operation
 operation = st.selectbox("Select operation:", ("Add", "Subtract", "Multiply", "Divide"))
