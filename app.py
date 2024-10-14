@@ -1,6 +1,6 @@
 import streamlit as st
 st.markdown(
-    """
+    
     <style>
     body {
         background-image: url('https://www.istockphoto.com/photo/2024-on-the-calculator-screen-new-year-2024-on-the-calculator-display-with-copy-space-gm1781688768-546899513?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fcalculator%2F&utm_term=calculator');
@@ -9,7 +9,7 @@ st.markdown(
         background-attachment: fixed;
     }
     </style>
-    """,
+    ,
     unsafe_allow_html=True
 )
 # Streamlit app title
