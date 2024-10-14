@@ -1,15 +1,15 @@
 import streamlit as st
 st.markdown(
-    
+    """
     <style>
     body {
-        background-image: url('https://www.istockphoto.com/photo/2024-on-the-calculator-screen-new-year-2024-on-the-calculator-display-with-copy-space-gm1781688768-546899513?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fcalculator%2F&utm_term=calculator');
+        background-image: url('https://img.freepik.com/free-vector/calculator-concept-illustration_114360-1194.jpg?t=st=1728923410~exp=1728927010~hmac=770fe9c7c0bb544a71a3bc6a0fa573e8afe465d7e7a2bea0d8b93c8d1725c52b&w=740');
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
     }
     </style>
-    ,
+    """,
     unsafe_allow_html=True
 )
 # Streamlit app title
